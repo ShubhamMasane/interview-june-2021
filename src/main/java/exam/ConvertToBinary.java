@@ -1,5 +1,7 @@
 package exam;
 
+import java.util.*;
+import java.io.*;
 public class ConvertToBinary {
 
   public String toBinary(final int n) {
